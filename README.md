@@ -20,9 +20,9 @@ My goal is to develop strong cloud computing and DevOps skills through continuou
 
 | AWS Service / Topic | Learning Status | Study Notes | Hands-On Lab | Technical Article |
 | :--- | :---: | :--- | :--- | :--- |
-| **AWS Cloud Fundamentals** | ✅ Completed | [Notes](./00-Cloud-Fundamentals/notes.md) | — | [Read Article](ඔබේ-Article-URL-එක) |
-| **AWS Identity and Access Management (IAM)** | ✅ Completed | [Notes](./01-AWS-IAM/theory-notes.md) | [Lab Summary](./01-AWS-IAM/lab-summary.md) | [Read Article](ඔබේ-IAM-Article-URL-එක) |
-| **Amazon EC2** | ✅ Completed | [Notes](./02-Amazon-EC2/theory-notes.md) | [Lab & Scripts](./02-Amazon-EC2/) | [Read Article](ඔබේ-EC2-Article-URL-එක) |
+| **AWS Cloud Fundamentals** | ✅ Completed | [Notes](./00-Cloud-Fundamentals/notes.md) | — |— |
+| **AWS Identity and Access Management (IAM)** | ✅ Completed | [Notes](./01-AWS-IAM/theory-notes.md) | [Lab Summary](./01-AWS-IAM/lab-summary.md) | [Read Article](https://builder.aws.com/content/3MViQkAUYWoaLaa3d6d96hs4D29/introduction-to-aws-iam-understanding-users-groups-policies-and-permissions) |
+| **Amazon EC2** | ✅ Completed | [Notes](./02-Amazon-EC2/theory-notes.md) | [Lab & Scripts](./02-Amazon-EC2/) | [Read Article](https://builder.aws.com/content/3MXdgY53o2HtgYNwJmAriL26HM6/getting-started-with-amazon-ec2-understanding-virtual-servers-in-aws-cloud) |
 | **Amazon S3** | ⏳ Upcoming | *Coming Soon* | *Coming Soon* | *Coming Soon* |
 | **Amazon VPC** | ⏳ Upcoming | *Coming Soon* | *Coming Soon* | *Coming Soon* |
 | **AWS CLI** | ⏳ Upcoming | *Coming Soon* | *Coming Soon* | *Coming Soon* |
