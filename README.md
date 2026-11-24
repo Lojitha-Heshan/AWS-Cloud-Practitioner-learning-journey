@@ -64,9 +64,9 @@ This repository includes:
 
 ## ✍️ Technical Articles
 I also share my AWS learning experience through technical articles on **AWS Builder Center**:
-- [My First Steps into AWS Cloud](ඔබේ-1st-Article-URL-එක)
-- [Introduction to AWS Identity and Access Management (IAM)](ඔබේ-IAM-Article-URL-එක)
-- [Getting Started with Amazon EC2](ඔබේ-EC2-Article-URL-එක)
+- [My First Steps into AWS Cloud](https://builder.aws.com/content/3MN8eHOXtTUN3eKcedfR5nKmsIG/my-first-steps-into-aws-cloud)
+- [Introduction to AWS Identity and Access Management (IAM)](https://builder.aws.com/content/3MViQkAUYWoaLaa3d6d96hs4D29/introduction-to-aws-iam-understanding-users-groups-policies-and-permissions)
+- [Getting Started with Amazon EC2](https://builder.aws.com/content/3MXdgY53o2HtgYNwJmAriL26HM6/getting-started-with-amazon-ec2-understanding-virtual-servers-in-aws-cloud)
 
 ---
 
@@ -78,7 +78,7 @@ My approach is to understand the core concepts, practice with real cloud service
 ---
 
 ## 🔗 Connect With Me
-- **AWS Builder Center:** [View Profile](ඔබේ-Builder-Center-Profile-URL-එක)
-- **LinkedIn:** [Connect on LinkedIn](ඔබේ-LinkedIn-Profile-URL-එක)
+- **AWS Builder Center:** [View Profile](https://builder.aws.com?inviteId=add01b42-6dae-4c49-ad61-53bb1ccada80)
+- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/lojitha-heshan-4b29b73a8?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 Thanks for visiting my repository! ⭐ Feel free to explore my learning progress and projects.
