@@ -7,15 +7,6 @@ My goal is to develop strong cloud computing and DevOps skills through continuou
 
 ---
 
-## 👨‍💻 About Me
-- Undergraduate student at **SLIIT**
-- Interested in **Software Engineering** and **DevOps**
-- Currently learning **AWS Cloud Computing**
-- Preparing for the **AWS Certified Cloud Practitioner (CLF-C02)** exam
-- Passionate about building real-world technical projects
-
----
-
 ## ☁️ AWS Learning Progress
 
 | AWS Service / Topic | Learning Status | Study Notes | Hands-On Lab | Technical Article |
