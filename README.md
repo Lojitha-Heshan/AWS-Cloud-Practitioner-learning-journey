@@ -58,7 +58,7 @@ I also share my AWS learning experience through technical articles on **AWS Buil
 - [My First Steps into AWS Cloud](https://builder.aws.com/content/3MN8eHOXtTUN3eKcedfR5nKmsIG/my-first-steps-into-aws-cloud)
 - [Introduction to AWS Identity and Access Management (IAM)](https://builder.aws.com/content/3MViQkAUYWoaLaa3d6d96hs4D29/introduction-to-aws-iam-understanding-users-groups-policies-and-permissions)
 - [Getting Started with Amazon EC2](https://builder.aws.com/content/3MXdgY53o2HtgYNwJmAriL26HM6/getting-started-with-amazon-ec2-understanding-virtual-servers-in-aws-cloud)
--[Exploring Amazon S3, Bucket Policies, and Versioning](https://builder.aws.com/content/3MaM93tOaktDx1arsiMdQjXJ7CM/day-03-of-my-aws-cloud-journey-exploring-amazon-s3-bucket-policies-and-versioning)
+- [Exploring Amazon S3, Bucket Policies, and Versioning](https://builder.aws.com/content/3MaM93tOaktDx1arsiMdQjXJ7CM/day-03-of-my-aws-cloud-journey-exploring-amazon-s3-bucket-policies-and-versioning)
 ---
 
 ## 📈 My Learning Philosophy
