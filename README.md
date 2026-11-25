@@ -14,7 +14,7 @@ My goal is to develop strong cloud computing and DevOps skills through continuou
 | **AWS Cloud Fundamentals** | ✅ Completed | [Notes](./01-aws-fundamentals/) | — |—|
 | **AWS Identity and Access Management (IAM)** | ✅ Completed | [Notes](./02-aws-iam/notes/) | [Lab Summary](./02-aws-iam/lab-summary.md) | [Read Article](https://builder.aws.com/content/3MViQkAUYWoaLaa3d6d96hs4D29/introduction-to-aws-iam-understanding-users-groups-policies-and-permissions) |
 | **Amazon EC2** | ✅ Completed | [Notes](./03-amazon-ec2/notes/) | [Lab & Scripts](./03-amazon-ec2/) | [Read Article](https://builder.aws.com/content/3MXdgY53o2HtgYNwJmAriL26HM6/getting-started-with-amazon-ec2-understanding-virtual-servers-in-aws-cloud) |
-| **Amazon S3** | ✅ Completed | [Notes](./04-amazon-s3/Note/) | *Coming Soon* | [Read Article](https://builder.aws.com/content/3MaM93tOaktDx1arsiMdQjXJ7CM/day-03-of-my-aws-cloud-journey-exploring-amazon-s3-bucket-policies-and-versioning) |
+| **Amazon S3** | ✅ Completed | [Notes](./04-amazon-s3/Note/) | [Lab Summary](./04-amazon-s3/README.md)| [Read Article](https://builder.aws.com/content/3MaM93tOaktDx1arsiMdQjXJ7CM/day-03-of-my-aws-cloud-journey-exploring-amazon-s3-bucket-policies-and-versioning) |
 | **Amazon VPC** | ⏳ Upcoming | *Coming Soon* | *Coming Soon* | *Coming Soon* |
 | **AWS CLI** | ⏳ Upcoming | *Coming Soon* | *Coming Soon* | *Coming Soon* |
 | **Linux for DevOps** | ⏳ Upcoming | *Coming Soon* | *Coming Soon* | *Coming Soon* |
@@ -58,7 +58,7 @@ I also share my AWS learning experience through technical articles on **AWS Buil
 - [My First Steps into AWS Cloud](https://builder.aws.com/content/3MN8eHOXtTUN3eKcedfR5nKmsIG/my-first-steps-into-aws-cloud)
 - [Introduction to AWS Identity and Access Management (IAM)](https://builder.aws.com/content/3MViQkAUYWoaLaa3d6d96hs4D29/introduction-to-aws-iam-understanding-users-groups-policies-and-permissions)
 - [Getting Started with Amazon EC2](https://builder.aws.com/content/3MXdgY53o2HtgYNwJmAriL26HM6/getting-started-with-amazon-ec2-understanding-virtual-servers-in-aws-cloud)
-
+-[Exploring Amazon S3, Bucket Policies, and Versioning](https://builder.aws.com/content/3MaM93tOaktDx1arsiMdQjXJ7CM/day-03-of-my-aws-cloud-journey-exploring-amazon-s3-bucket-policies-and-versioning)
 ---
 
 ## 📈 My Learning Philosophy
